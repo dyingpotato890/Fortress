@@ -1,4 +1,4 @@
-# Prison Management System
+# Fortress - Prison Management System
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -14,7 +14,7 @@
 ---
 
 ## Introduction
-The **Prison Management System** is a comprehensive application designed to manage prison operations efficiently. It streamlines tasks such as managing prisoners, staff, visitors, cells, and crime statistics through an easy-to-use interface. Built with modern technologies, the system ensures scalability, reliability, and security.
+The **Fortress** is a comprehensive application designed to manage prison operations efficiently. It streamlines tasks such as managing prisoners, staff, visitors, cells, and crime statistics through an easy-to-use interface. Built with modern technologies, the system ensures scalability, reliability, and security.
 
 ---
 
